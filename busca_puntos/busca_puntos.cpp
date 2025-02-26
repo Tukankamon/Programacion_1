@@ -4,6 +4,13 @@
 #include <iostream>
 using namespace std;
 
-
-string text;
-cin >> text;
+int main(){
+    string text;
+    string dot = ".";
+    cin >> text;
+    for (int i = 0; i < text.size(); i++){
+        if (text[i] == dot){
+            cout << "HOLa";
+        }
+    }
+}
