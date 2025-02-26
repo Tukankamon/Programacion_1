@@ -1,3 +1,5 @@
+//ejercicio 6
+
 //Escribe un algoritmo que calcule el valor de S para un número real x de manera
 //que el error sea menor que 0.0001
 
