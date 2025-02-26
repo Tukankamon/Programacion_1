@@ -3,3 +3,7 @@
 
 #include <iostream>
 using namespace std;
+
+
+string text;
+cin >> text;
